@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express, Mongo DB, and My SQL.**
 
-- 👯 I’m looking to collaborate on [Guestna App](https://play.google.com/store/apps/details?id=com.guestnaSample)
+- 👯 I’m currently collaborating on [Guestna App](https://play.google.com/store/apps/details?id=com.guestnaSample)
 
 - 👨‍💻 All of my projects are available at [https://ahmedalaa96.vercel.app/](https://ahmedalaa96.vercel.app/)
 
