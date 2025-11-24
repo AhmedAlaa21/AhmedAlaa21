@@ -26,11 +26,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
 </p>
 
-#### **Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=reactnative" />
-</p>
-
 #### **Backend & Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
