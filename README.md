@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
-<h3 align="center">Frontend Developer | React • React Native • Next.js</h3>
+<h3 align="center">Frontend Developer | React • Next.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedalaa21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
